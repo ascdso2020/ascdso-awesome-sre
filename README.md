@@ -26,8 +26,10 @@ Contributions are always welcome!
 - [Performance](#performance)
 - [Misc Articles](#misc-articles)
 - [Blogs](#blogs)
+- [Newsletters](#newsletters)
 - [Conferences & Meetups](#conferences--meetups)
 - [Twitter](#twitter)
+- [SRE Tools](#sre-tools)
 
 ## Culture
 * [What is Site Reliability Engineering?](https://landing.google.com/sre/interview/ben-treynor.html)
@@ -67,7 +69,7 @@ Contributions are always welcome!
 * [SE-Radio Episode 276: Björn Rabenstein on Site Reliability Engineering](http://www.se-radio.net/2016/12/se-radio-episode-276-bjorn-rabenstein-on-site-reliability-engineering/)
 * [Microservices, DevOps and Production Complexity](https://blog.netsil.com/microservices-devops-and-operational-complexity-be98cb01b660)
 * [Introducing Google Customer Reliability Engineering](https://cloudplatform.googleblog.com/2016/10/introducing-a-new-era-of-customer-support-Google-Customer-Reliability-Engineering.html)
-* [Evolution or Rebellion? The rise of Site Reliability Engineers (SRE)](http://126kr.com/article/7vkoxnk6s01)
+* [Evolution or Rebellion? The rise of Site Reliability Engineers (SRE)](https://robhirschfeld.com/2016/12/29/evolution-or-rebellion-the-rise-of-site-reliability-engineers-sre/)
 * [The difference between Site Reliability Engineering, System Administration, and DevOps](https://standalone-sysadmin.com/the-difference-between-site-reliability-engineering-system-administration-and-devops-d05031495499)
 * [SRE in the Small and in the Large](https://www.usenix.org/conference/lisa16/conference-program/presentation/closing-plenary)
 * [SBSRE Meetup: Different SRE roles and challenges(Netflix)](https://www.youtube.com/watch?v=zLXf0cKDOv0)
@@ -85,7 +87,7 @@ Contributions are always welcome!
 * [Why should your app get SRE support? - CRE life lessons](https://cloudplatform.googleblog.com/2017/06/why-should-your-app-get-SRE-support-CRE-life-lessons.html)
 * [How SREs find the landmines in a service - CRE life lessons](https://cloudplatform.googleblog.com/2017/06/how-SREs-find-the-landmines-in-a-service-CRE-life-lessons.html)
 * [Making the most of an SRE service takeover - CRE life lessons](https://cloudplatform.googleblog.com/2017/07/making-the-most-of-an-SRE-service-takeover-CRE-life-lessons.html)
-* [The Cloudcast #301: SRE and Infrastructure Operations (Podcast)](https://dzone.com/articles/the-cloudcast-301-sre-and-infrastructure-operation) 
+* [The Cloudcast #301: SRE and Infrastructure Operations (Podcast)](https://dzone.com/articles/the-cloudcast-301-sre-and-infrastructure-operation)
 * [The SRE model](https://medium.com/@rakyll/the-sre-model-6e19376ef986)
 * [Onboarding New Site Reliability Engineers](https://circleci.com/blog/onboarding-new-site-reliability-engineers/)
 * [Building Blocks for Site Reliability At Google](https://www.youtube.com/watch?v=nQv9ySa8MTU)
@@ -118,6 +120,16 @@ Contributions are always welcome!
 * [How to Avoid the 5 SRE Implementation Traps that Catch Even the Best Teams](https://thenewstack.io/how-to-avoid-the-5-sre-implementation-traps-that-catch-even-the-best-teams/)
 * [Reliability Engineering – The Essential Discipline for Complex Systems](https://vimeo.com/344515149)
 * [The Modern Site Reliability Workbench on Top of OCI](https://www.youtube.com/watch?v=bC5dIPzNH24)
+* [SRE in the Third Age](https://www.usenix.org/conference/srecon19emea/presentation/rabenstein)
+* [About SRE and how (not) to apply it](https://www.youtube.com/watch?v=vF6ajM3P_wM)
+* [Transitioning a typical engineering ops team into an SRE powerhouse](https://cloud.google.com/blog/products/management-tools/transitioning-a-typical-engineering-ops-team-into-an-sre-powerhouse)
+* [Making a Lion Bulletproof: SRE in Banking](https://www.infoq.com/presentations/ing-sre-teams-practices/)
+* [Identifying and tracking toil using SRE principles](https://cloud.google.com/blog/products/management-tools/identifying-and-tracking-toil-using-sre-principles)
+* [From Ops to SRE: Evolution of the OpenShift Dedicated
+  Team](https://www.openshift.com/blog/from-ops-to-sre-evolution-of-the-openshift-dedicated-team)
+* [Meeting reliability challenges with SRE principles](https://cloud.google.com/blog/products/management-tools/meeting-reliability-challenges-with-sre-principles)
+* [A quick introduction to SRE principles](https://github.com/fhivemind/sre-playground)
+* [The SRE I Aspire to Be](https://www.youtube.com/watch?v=KnC2eRUZMKY)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
@@ -141,6 +153,9 @@ Contributions are always welcome!
 * [Why SRE Documents Matter](https://queue.acm.org/detail.cfm?id=3283589)
 * [How to get started with site reliability engineering (SRE)](https://www.oreilly.com/ideas/how-to-get-started-with-site-reliability-engineering-sre)
 * [Duties of a Site Reliability Engineering Manager](https://victorops.com/blog/duties-of-a-site-reliability-engineering-manager)
+* [Designing distributed systems using NALSD flashcards](https://cloud.google.com/blog/products/management-tools/sre-principles-and-flashcards-to-design-nalsd)
+* [Training Site Reliability Engineers: What Your Organization Needs to Create a Learning Program](https://landing.google.com/sre/resources/practicesandprocesses/training-site-reliability-engineers)
+* [SRE Classroom: Distributed PubSub workshop](https://landing.google.com/sre/resources/practicesandprocesses/sre-classroom/)
 
 ## Books
 * [Practical Linux Infrastructure](https://www.apress.com/us/book/9781484205129)
@@ -164,6 +179,8 @@ Contributions are always welcome!
 * [Seeking SRE](http://shop.oreilly.com/product/0636920063964.do)
 * [What is SRE?](https://www.verizondigitalmedia.com/e-book/oreilly-what-is-sre/)
 * [Engineering Reliable Mobile Applications: Strategies for Developing Resilient Native Mobile Applications](https://landing.google.com/sre/resources/practicesandprocesses/engineering-reliable-mobile-applications/)
+* [Building Secure and Reliable Systems](https://landing.google.com/sre/book.html)
+* [Chaos Engineering: Crash test your applications](https://www.manning.com/books/chaos-engineering/)
 
 ## Hiring
 * [SRE Hiring](https://www.usenix.org/conference/srecon15/program/presentation/fong)
@@ -171,7 +188,6 @@ Contributions are always welcome!
 * [Hiring Site Reliability Engineers](https://www.usenix.org/publications/login/june15/hiring-site-reliability-engineers)
 * [Hiring your first SRE](https://sreally.com/hiring-your-first-sre-bdda38ee175d#.2m3sqyuw9)
 * [Growing the Site Reliability Team at LinkedIn: Hiring is Hard](https://www.youtube.com/watch?v=ZemNg9GYvOA)
-* [How to Find and Hire Site Reliability Engineers (SREs)](https://www.stackoverflowbusiness.com/blog/how-to-find-and-hire-site-reliability-engineers-sres)
 * [Engineering Manager - Site Reliability Engineering Interview Preparation](https://danrl.com/blog/srm)
 
 ## Reliability
@@ -184,7 +200,7 @@ Contributions are always welcome!
 * [Push our limits - reliability testing at Twitter](https://blog.twitter.com/2014/push-our-limits-reliability-testing-at-twitter)
 * [The Verification of a Distributed System by Caitie McCaffrey](http://queue.acm.org/detail.cfm?ref=rss&id=2889274)
 * [Weathering the Unexpected](http://queue.acm.org/detail.cfm?id=2371516)
-* [The Remediation Ballet](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1492182549.pdf)
+* [The Remediation Ballet](https://digital-forensics.sans.org/summit-archives/file/summit-archive-1492182549.pdf)
 * [SRE Hour: Tech Talks by Box & Yelp](https://www.youtube.com/watch?v=YFDwdRVTg4g)
 * [Simplicity: A Prerequisite for Reliability](https://medium.com/production-ready/simplicity-a-prerequisite-for-reliability-8d000f8d18df#.74t9t0em2)
 * [The Two Sides to Google Infrastructure for Everyone Else](https://speakerdeck.com/garethr/the-two-sides-to-google-infrastructure-for-everyone-else)
@@ -231,6 +247,14 @@ Contributions are always welcome!
 * [production readiness](https://jbd.dev/prod-readiness/)
 * [Trust By Design: The Fusion of Operational Maturity and Risk Modeling](https://www.youtube.com/watch?v=Vvd3uvNvMns)
 * [Top Seven Myths of Robust Systems](https://www.verica.io/top-seven-myths-of-robust-systems/)
+* [Taming chaos: Preparing for your next incident](https://www.oreilly.com/ideas/taming-chaos-preparing-for-your-next-incident)
+* [PID Loops and the Art of Keeping Systems Stable](https://www.youtube.com/watch?v=3AxSwCC7I4s)
+* [Are you ready for production?](https://www.youtube.com/watch?v=YptJ2rrGAYY) - [Slides](https://speakerdeck.com/rakyll/are-you-ready-for-production)
+* [Production Checklist for Web Apps on Kubernetes](https://srcco.de/posts/web-service-on-kubernetes-production-checklist-2019.html)
+* [Finding a problem at the bottom of the Google stack](https://cloud.google.com/blog/products/management-tools/sre-keeps-digging-to-prevent-problems)
+* [Rethinking Task Size in SRE](https://www.oreilly.com/content/rethinking-task-size-in-sre/)
+* [How maintenance windows affect your error budget](https://cloud.google.com/blog/products/management-tools/sre-error-budgets-and-maintenance-windows)
+* [The Production Readiness Spectrum](https://dastergon.gr/posts/2020/09/the-production-readiness-spectrum/)
 
 ## Monitoring & Observability & Alerting
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
@@ -260,6 +284,11 @@ Contributions are always welcome!
 * [Want to Debug Latency?](https://medium.com/observability/want-to-debug-latency-7aa48ecbe8f7)
 * [Debugging Latency in Go 1.11](https://medium.com/observability/debugging-latency-in-go-1-11-9f97a7910d68)
 * [Alerting on SLOs like Pros](https://developers.soundcloud.com/blog/alerting-on-slos)
+* [Applied Alerting Philosophy](https://www.youtube.com/watch?v=JhxfZ0VIPP0)
+* [Observations on Observability](https://blog.colinbreck.com/observations-on-observability/)
+* [Deploys: It's Not Actually About Fridays](https://charity.wtf/2019/10/28/deploys-its-not-actually-about-fridays/)
+* [Site Reliability Engineering Best Practices for Data Pipelines](https://medium.com/better-programming/site-reliability-engineering-best-practices-for-data-pipelines-44a78e91f6f0)
+* [Elastic Observability in SRE and Incident Response](https://www.elastic.co/blog/elastic-observability-sre-incident-response)
 
 ## On-Call
 * [Being an On-Call Engineer: A Google SRE Perspective](http://research.google.com/pubs/pub44813.html)
@@ -301,10 +330,19 @@ Contributions are always welcome!
 * [Managing Incidents at Monzo](https://www.youtube.com/watch?v=ZqwVlsIonIw)
 * [Making On-Call Not Suck](https://dev.to/molly_struve/making-on-call-not-suck-490)
 * [How we (Monzo) respond to incidents](https://monzo.com/blog/2019/07/08/how-we-respond-to-incidents)
+* [How we’ve evolved on-call at Monzo](https://monzo.com/blog/how-weve-evolved-on-call-at-monzo)
 * [Code Yellow: When Operations Isn’t Perfect](https://devops.com/code-yellow-when-operations-isnt-perfect/)
 * [MTTR is dead, long live CIRT](https://opensource.com/article/19/7/measure-operational-performance)
 * [Extended Dreyfus Model for Incident Lifecycles](https://github.com/preed/incident-lifecycle-model)
 * [Inhumanity of Root Cause Analysis](https://www.verica.io/inhumanity-of-root-cause-analysis/)
+* [Incident insights from NASA, NTSB, and the CDC](https://www.youtube.com/watch?v=ODYO2MPymJ4)
+* [How to avoid On-Call Burnout the SRE Way](https://blog.squadcast.com/how-to-avoid-on-call-burnout/)
+* [My week shadowing a GitLab Site Reliability Engineer](https://about.gitlab.com/blog/2019/12/16/sre-shadow/)
+* [How our production team runs the weekly on-call handover](https://about.gitlab.com/blog/2018/03/14/the-on-call-handover-at-gitlab/)
+* [Writing Runbook Documentation When You’re An SRE](https://www.transposit.com/blog/2020.01.30-writing-runbook-documentation-when-youre-an-sre/)
+* [Incident response, programs and you(r startup)](https://lethain.com/incident-response-programs-and-your-startup/)
+* [An Incident Command Training Handbook](https://blog.danslimmon.com/2019/06/24/an-incident-command-training-handbook/)
+* [Shrinking the time to mitigate production incidents](https://cloud.google.com/blog/products/management-tools/shrinking-the-time-to-mitigate-production-incidents)
 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
@@ -329,10 +367,15 @@ Contributions are always welcome!
 * [Post-mortems to the rescue](https://increment.com/documentation/post-mortems-to-the-rescue/)
 * [Postmortem Action Items: Plan the Work and Work the Plan](https://ai.google/research/pubs/pub45906)
 * [Why Every Company Can Benefit from a Blameless Culture](https://www.blameless.com/why-companies-can-benefit-from-blameless-culture/)
+* ["It's dead, Jim": How we write an incident postmortem](https://www.hostedgraphite.com/blog/its-dead-jim-how-we-write-an-incident-postmortem)
+* [Our incident postmortem template](https://www.hostedgraphite.com/blog/incident-postmortem-template)
+* [Learn out of mistakes. Postmortems to the rescue.](https://fernandocejas.com/2020/03/21/learn-out-of-mistakes-postmortems/)
+* [Improving Postmortem Practices with Veteran Google SRE, Steve McGhee](https://www.blameless.com/improve-postmortem-with-sre-steve-mcghee/)
 
 ## Capacity Planning
 * [Capacity Planning](https://www.usenix.org/system/files/login/articles/login_feb15_07_hixson.pdf)
 * [SouthBay SRE: Cloud Capacity Planning](https://www.youtube.com/watch?v=MDQ0uEUmLOo)
+* [Intent-based Capacity Planning and Autoscaling with Kubernetes](https://blog.squadcast.com/intent-based-capacity-planning-autoscaling-kubernetes/)
 
 ## Service Level Agreement
 * [SLA Aware Maintenance for Operators - Joe Smith](https://www.youtube.com/watch?v=tZ0-SISvCis)
@@ -364,6 +407,17 @@ Contributions are always welcome!
 * [How many nines is my storage system?](https://medium.com/@jamesacowling/how-many-nines-is-my-storage-system-7d16e852d56d)
 * [Don't follow the sun.](https://lethain.com/dont-follow-the-sun/)
 * [The Tyranny of the SLA](https://www.youtube.com/watch?v=4cPqLuIXBnw)
+* [Backblaze Durability is 99.999999999% — And Why It Doesn’t Matter](https://www.backblaze.com/blog/cloud-storage-durability/)
+* [DevOpsDays Chicago 2019 - The Art of SLOs](https://youtu.be/Dfnbw5dJQ5I)
+* [The Art of SLOs Workshop Materials](https://cre.page.link/art-of-slos)
+* [How to Include Latency in SLO-Based Alerting](https://grafana.com/blog/2019/11/27/kubecon-recap-how-to-include-latency-in-slo-based-alerting/)
+* [Succeeding With Service Level Objectives](https://www.squadcast.com/blog/succeeding-with-service-level-objectives)
+* [Putting customers first with SLIs and SLOs](https://medium.com/the-telegraph-engineering/putting-customers-first-with-slis-and-slos-15352f9b6cbc)
+* [SRE Leadership: Have Tiered SLAs](https://medium.com/site-reliability-engineering-leadership/sre-tip-have-tiered-slas-2c432ffe46a)
+* [How SLOs Enable Fast, Reliable Application Delivery](https://www.blameless.com/blog/how-slos-enable-fast-reliable-application-delivery)
+* [The Tail at Scale](https://billduncan.org/the-tail-at-scale/)
+* [The Tail at Scale Revisited](https://billduncan.org/the-tail-at-scale-revisited/)
+* [Defining SLOs for services with dependencies](https://cloud.google.com/blog/products/gcp/defining-slos-for-services-with-dependencies-cre-life-lessons)
 
 ## Performance
 * [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)
@@ -386,7 +440,6 @@ Contributions are always welcome!
 * [Site reliability engineering kicks rote tasks out of IT ops](http://searchitoperations.techtarget.com/feature/Site-reliability-engineering-kicks-rote-tasks-out-of-IT-ops)
 * [Notes on Site Reliability Engineering](http://danluu.com/google-sre-book/)
 * [Adventures in SRE-land: Welcome to Google Mission Control](https://cloudplatform.googleblog.com/2016/07/adventures-in-SRE-land-welcome-to-Google-Mission-Control.html)
-* [LinkedIn Preps Site Reliability Engineers (SREs) For Exciting Careers](http://devops.com/2015/09/10/linkedin-preps-site-reliability-engineers-sres-exciting-careers/)
 * [Book Review: Site Reliability Engineering - How Google Runs Production Systems](https://www.infoq.com/articles/site-reliability-engineering)
 * [Site Reliability Engineers: “We solve cooler problems”](https://www.google.com/about/careers/stories/site-reliability-engineering-profile-google/)
 * [SREcon17: Brave new world of site reliability engineering](http://www.networkworld.com/article/3182827/cloud-computing/srecon17-brave-new-world-of-site-reliability-engineering.html)
@@ -401,6 +454,9 @@ Contributions are always welcome!
 * [SRE Adoption Report](https://techbeacon.com/devops/how-accenture-retrofitted-site-reliability-engineering)
 * [SREs: The Happiest – and Highest Paid – in the Industry](https://devops.com/sres-the-happiest-and-highest-paid-in-the-industry/)
 * [The Role of Site Reliability Engineering, Today and Tomorrow](https://thenewstack.io/the-role-of-site-reliability-engineering-today-and-tomorrow/)
+* [SRE as a Lifestyle Choice](https://medium.com/@bellmar/sre-as-a-lifestyle-choice-de9f5a82d73d)
+* [SRECon EMEA 2019 Recap](https://speakerdeck.com/dastergon/srecon-emea-2019-recap-sre-muc-meetup)
+* [Life of an SRE at Google - JC van Winkel](https://www.youtube.com/watch?v=7Oe8mYPBZmw)
 
 ## Real-time Messaging
 * [#sre channel at Hangops Slack](https://hangops.slack.com/) - Discussion of Site Reliability Engineering generally.
@@ -412,17 +468,25 @@ Contributions are always welcome!
 * [Everything Sysadmin](http://everythingsysadmin.com/) - Blog Posts About SysAdmin/DevOps/SRE by Tom Limoncelli.
 * [High Scalability](http://highscalability.com/) - Technical Blog Posts About Systems Architecture.
 * [rachelbythebay](https://rachelbythebay.com/w/) - Techincal Blog Posts.
-* [SRE Weekly](https://sreweekly.com/) - Weekly Site Reliability Newsletter.
 * [Production Ready](https://tinyletter.com/production-ready) - A mailing list about building resilient infrastructure and tools.
 * [Susan J. Fowler](http://www.susanjfowler.com/blog/) - Various blog posts about SRE, Software Engineering and Microservices.
 * [SysAdvent](https://sysadvent.blogspot.com) - One article for each day of December, ending on the 25th article.
 * [Operations for Developers](http://some.ops4devs.info/) - A collection of resources for developers to strengthen their Ops skills.
 * [Stephen Thorne's Blog](https://medium.com/@jerub) - Blog Posts About SRE
 * [Increment](https://increment.com/) - A digital magazine about how teams build and operate software systems at scale.
-* [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) - Weekly systems engineering and operations news and insights from industry insiders.
 * [GopherSRE](http://www.gophersre.com/) - Blog Posts about Go and SRE.
 * [Cindy Sridharan](https://medium.com/@copyconstruct) - Blog posts about distributed systems and their management.
 * [Blameless Blog](https://www.blameless.com/blog/) - Blog posts about SRE culture and practices.
+* [Resilience Roundup](https://ResilienceRoundup.com) - Weekly analysis of Resilience Engineering and Human Factors research designed for software systems
+* [Squadcast Blog](https://www.squadcast.com/blog) - Blog posts about SRE best practices, reliability, on-call and incident management.
+
+## Newsletters
+* [DevOpsLinks](https://faun.dev) - A weekly newsletter about SRE, SysAdmin and DevOps news, tools, tutorials and opinions.
+* [KubeWeekly](https://kubeweekly.io/) - The weekly newsletters for all things Kubernetes. KubeWeekly is curated by Bob Killen, Chris Short, Craig Box, Kim McMahon and Michael Hausenblas
+* [SRE Weekly](https://sreweekly.com/) - Weekly Site Reliability Newsletter.
+* [O’Reilly Systems Engineering and Operations Newsletter](http://www.oreilly.com/webops-perf/newsletter.html) - Weekly systems engineering and operations news and insights from industry insiders.
+* [ChaosEngineering.news](https://chaosengineering.news/) - Chaos Engineering newsletter. All things Chaos Wngineering, directly to your inbox!
+
 
 ## Conferences & Meetups
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - The Official SRE Conference.
@@ -432,13 +496,19 @@ Contributions are always welcome!
 * [San Francisco Reliability Engineering](https://www.meetup.com/San-Francisco-Reliability-Engineering/) - A Group Of People Who Are Passionate About Reliable, Performant Software Systems.
 * [Front Range Site Reliability Engineering](https://www.meetup.com/site-reliability/) - SRE Meetup in Boulder/Denver/Golden/DTC/FoCo area.
 * [Site Reliability Engineering Munich, Germany](https://www.meetup.com/Site-Reliability-Engineering-Munich/) - SRE Meetup in the greater area of Oktoberfest city.
+* [ADDO - All Day DevOps](https://www.alldaydevops.com/) - A 24 hour conference that is completely online and free.
+* [Site Reliability Engineering Paris, France](https://www.meetup.com/Site-Reliability-Engineering-Paris/) - SRE Meetup in the city of light.
 
 ## Twitter
 * [Google SRE Twitter Account](https://twitter.com/googlesre) - Google's SRE Twitter Account.
 * [SREBook](https://twitter.com/SREBook) - The Official Twitter Account of Site Reliability Engineering Book.
 * [SREcon](https://twitter.com/SREcon) - SRECon's Official Twitter Account.
 * [SREWorkbook](https://twitter.com/SREWorkbook) - The Official Twitter Account of Site Reliability Workbook.
-* [The SRE Dev](https://twitter.com/The_SRE_Dev) - SRE-related Posts from [dev.to](https://dev.to). 
+* [The SRE Dev](https://twitter.com/The_SRE_Dev) - SRE-related Posts from [dev.to](https://dev.to).
 * [Twitter SRE](https://twitter.com/TwitterSRE) - The Official Twitter Account of Twitter's SRE team.
 * [Twitter SRE Weekly](https://twitter.com/SREWeekly) - The Official Twitter Account of SRE Weekly Newsletter.
 * [USENIX Association](https://twitter.com/usenix) - The Official USENIX Twitter Account.
+
+## SRE Tools
+* [Awesome SRE Tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering tools
+* [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
